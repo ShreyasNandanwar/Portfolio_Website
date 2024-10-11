@@ -27,12 +27,12 @@ const Footer = ({ darkMode }) => {
                     </div>
 
                     <div className='flex space-x-4 mb-6'>
-                        <a href="#" className={iconClass}><FaTwitter /></a>
-                        <a href="#" className={iconClass}><FaDribbble /></a>
-                        <a href="#" className={iconClass}><FaLinkedin /></a>
-                        <a href="#" className={iconClass}><FaGithub /></a>
-                        <a href="#" className={iconClass}><SiMedium /></a>
-                        <a href="#" className={iconClass}><FaEnvelope /></a>
+                        <a href="https://x.com/ShreyasNan0400" className={iconClass}><FaTwitter /></a>
+                        <a href="https://dribbble.com/shreyasNAN0400" className={iconClass}><FaDribbble /></a>
+                        <a href="https://www.linkedin.com/in/shreyas-nandanwar/" className={iconClass}><FaLinkedin /></a>
+                        <a href="https://github.com/ShreyasNandanwar" className={iconClass}><FaGithub /></a>
+                        <a href="https://medium.com/@shreyasnandanwar0400" className={iconClass}><SiMedium /></a>
+                        <a href="shreyasnandanwar0400@gmail.com" className={iconClass}><FaEnvelope /></a>
                     </div>
 
                     <p className='text-sm font-playfair'>
